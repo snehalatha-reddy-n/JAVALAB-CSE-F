@@ -47,7 +47,7 @@ class Main {
 ```
 
 # Output
-<img width="1920" height="1020" alt="exp3A" src="https://github.com/user-attachments/assets/7ac83188-3506-4c0b-86e3-307fb3ff83d6" />
+<img width="1920" height="1080" alt="exp3a" src="https://github.com/user-attachments/assets/5fa80870-a2fe-4432-8e99-80060c520e86" />
 
 
 ## EXPERIMENT 3B
@@ -144,7 +144,7 @@ class Main {
 ```
 
 # Output
-<img width="1920" height="1020" alt="exp3b" src="https://github.com/user-attachments/assets/40a72bf1-a18c-4340-867d-a17c5e21b1f0" />
+<img width="1920" height="1080" alt="exp3b" src="https://github.com/user-attachments/assets/86e48f34-25d8-4cac-a864-922674927b48" />
 
 
 ## EXPERIMENT 3C
@@ -212,4 +212,4 @@ import java.util.Scanner;
 ```
 
 # Output
-<img width="1920" height="1020" alt="exp3c" src="https://github.com/user-attachments/assets/5e5765f1-8da3-4860-923a-c6a45d3aa08c" />
+<img width="1920" height="1080" alt="exp3c" src="https://github.com/user-attachments/assets/d724ebdc-eb37-4c88-a652-3646fc068079" />
