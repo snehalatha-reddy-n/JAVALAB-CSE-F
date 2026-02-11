@@ -62,7 +62,8 @@ public class TestEmployee {
 }
 ```
 # Output
-![4a](https://github.com/user-attachments/assets/45be18dc-3d73-42c2-be95-9031269a0245)
+<img width="1920" height="1020" alt="4A" src="https://github.com/user-attachments/assets/802b2bc5-93a5-4693-aada-2f0acf7d11d3" />
+
 
 
 ## EXPERIMENT 4b
